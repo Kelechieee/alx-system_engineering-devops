@@ -1,1 +1,1 @@
-Print "Hello, World"
+Show ALX shell redirections project
